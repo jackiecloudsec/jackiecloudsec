@@ -7,9 +7,9 @@
 ## 🧑‍💻 About Me  
 I’m currently working on [**SIEM Engineering | Cloud Security | Detection Engineering**]  
 Currently taking a deeper dive into [**  Kubernetes / DaC Pipelines**]  
-Ask me how to [Have malware all over your OS | go into debt with AWS ]  
-How to reach me: [jackie.wade1@outlook.com]  
-[LinkedIn: www.linkedin.com/in/opwade] 
+Ask me how to have malware all over your OS | go into debt with AWS  
+How to reach me: jackie.wade1@outlook.com  
+LinkedIn: www.linkedin.com/in/opwade 
 
 ---
 
