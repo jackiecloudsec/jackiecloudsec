@@ -29,6 +29,7 @@ Security engineer building detection-as-code pipelines and cloud security toolin
 |---------|-------------|
 | [**cloud-sec-blog**](https://cloud-sec-blog.onrender.com) | Threat intel platform — scrapes 9 public feeds daily, maps to MITRE ATT&CK, and generates detection templates for Splunk, Sentinel, Elastic, and Athena. FastAPI + Jinja2, deployed on Render. |
 | [**detection-as-code**](https://github.com/jackiecloudsec/detection-as-code) | Kubernetes-native detection engine. Detections defined as code, tested in CI, deployed to SIEM targets automatically. |
+| [**terraform-aws-workflows**](https://github.com/jackiecloudsec/terraform-aws-workflows) | Production-ready Terraform templates for AWS security — CloudTrail, GuardDuty, Security Hub, VPC Flow Logs, Config compliance. 6 workflows, 6 reusable modules. |
 | [**terraform-aws-eks**](https://github.com/jackiecloudsec/terraform-aws-eks) | Terraform module for provisioning production-ready EKS clusters with VPC, node groups, and IAM roles. |
 | [**DaC-Pipeline-DryFire**](https://github.com/jackiecloudsec/DaC-Pipeline-DryFire) | Detection-as-code pipeline that syncs rules to Elasticsearch via API. Built as a proof-of-concept for DaC workflows on EKS. |
 
