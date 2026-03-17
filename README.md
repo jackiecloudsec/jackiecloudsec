@@ -18,9 +18,8 @@
 
 ### About
 
-Security engineer building detection-as-code pipelines and cloud security tooling. Currently focused on SIEM engineering, Kubernetes security, and automated threat intelligence at Booz Allen Hamilton supporting the Air Force's Kessel Run program.
+Security engineer building detection-as-code pipelines and cloud security tooling. Currently focused on SIEM engineering, security focused cloud infrastructure, threat hunting, and detection engineering at Booz Allen Hamilton.
 
-Previous work includes cloud infrastructure and CI/CD automation at Raytheon.
 
 ---
 
