@@ -38,34 +38,34 @@ Security engineer building detection-as-code pipelines and cloud security toolin
 
 **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://cloud-sec-blog.onrender.com)
 
 **Security & Detection**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-4B275F?style=flat)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E34F26?style=flat)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://cloud-sec-blog.onrender.com/dashboards)
+[![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)](https://cloud-sec-blog.onrender.com/dashboards)
+[![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://cloud-sec-blog.onrender.com/dashboards)
+[![Sigma](https://img.shields.io/badge/Sigma_Rules-4B275F?style=flat)](https://cloud-sec-blog.onrender.com/dashboards)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E34F26?style=flat)](https://cloud-sec-blog.onrender.com/dashboards)
 
 **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://cloud-sec-blog.onrender.com/api-reference)
+[![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)](https://github.com/jackiecloudsec/terraform-aws-eks)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat)](https://cloud-sec-blog.onrender.com/workflow)
 
 **CI/CD & Tooling**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F2C811?style=flat)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/jackiecloudsec/cloud-sec-blog/actions)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://cloud-sec-blog.onrender.com)
+[![Loki](https://img.shields.io/badge/Loki-F2C811?style=flat)](https://cloud-sec-blog.onrender.com)
 
 ---
 
